@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AjedrezAPP</string>
+    <string name="premiun">Presiona aqui para Convertirse en usuario Premiun</string>
+    <string name="TitulPremiun">Obten tu cuenta Premiun</string>
+    <string name="beneficio">No mas anuncio</string>
+    <string name="beneficio2">Intentos ilimitados</string>
+    <string name="beneficios3">Guarda procesos</string>
+    <string name="costo">50 lempiras</string>
+    <string name="nivel">Nivel :</string>
+    <string name="mov">Pasos:</string>
+    <string name="tiempo">Tiempo:</string>
+    <string name="intentos">Intentos:</string>
+    <string name="extras">Extras:</string>
+    <string name="instruciones">Selecione las pieza que desea mover</string>
+    <string name="autor">Juego realizado por Juan Delarca Progrmacion movil</string>
+</resources>

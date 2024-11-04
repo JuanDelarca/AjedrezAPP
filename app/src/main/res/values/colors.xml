@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tablero_1">#01161e</color>
+    <color name="tablero_2">#aec3b0</color>
+    <color name="colorFondo">#F2E5C9</color>
+    <color name="colorContrasteTexto">#C30E43</color>
+
+</resources>
